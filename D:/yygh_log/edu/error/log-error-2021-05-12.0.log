@@ -1,0 +1,72 @@
+2021-05-12 21:05:34.643 [restartedMain] ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field hospitalService in com.atguigu.yygh.hosp.controller.api.apiController required a bean of type 'com.atguigu.yygh.hosp.service.HospitalService' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.atguigu.yygh.hosp.service.HospitalService' in your configuration.
+
+2021-05-12 21:08:12.877 [restartedMain] ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field hospitalService in com.atguigu.yygh.hosp.controller.api.apiController required a bean of type 'com.atguigu.yygh.hosp.service.HospitalService' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.atguigu.yygh.hosp.service.HospitalService' in your configuration.
+
+2021-05-12 21:09:02.121 [restartedMain] ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field hospitalService in com.atguigu.yygh.hosp.controller.api.apiController required a bean of type 'com.atguigu.yygh.hosp.service.HospitalService' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.atguigu.yygh.hosp.service.HospitalService' in your configuration.
+
+2021-05-12 21:12:03.559 [restartedMain] ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field hospitalService in com.atguigu.yygh.hosp.controller.api.apiController required a bean of type 'com.atguigu.yygh.hosp.service.HospitalService' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.atguigu.yygh.hosp.service.HospitalService' in your configuration.
+
